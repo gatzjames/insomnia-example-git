@@ -1,0 +1,23 @@
+_id: req_9b93d6ee01874378ab5071d80fff9e02
+type: Request
+parentId: wrk_8b329e25786a494c98120cdeaecbc8a7
+modified: 1696265090220
+created: 1696265084999
+url: https://mockbin.org
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/8.1.0
+authentication: {}
+metaSortKey: -1696265084999
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
