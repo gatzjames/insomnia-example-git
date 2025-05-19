@@ -1,0 +1,39 @@
+type: spec.insomnia.rest/5.0
+name: my-spec.yaml
+meta:
+  id: wrk_8b329e25786a494c98120cdeaecbc8a7
+  created: 1642714324016
+  modified: 1642714324016
+collection:
+  - url: https://mockbin.org
+    name: New Request
+    meta:
+      id: req_9b93d6ee01874378ab5071d80fff9e02
+      created: 1696265084999
+      modified: 1696265090220
+      isPrivate: false
+      sortKey: -1696265084999
+    method: GET
+    headers:
+      - name: User-Agent
+        value: insomnia/8.1.0
+    settings:
+      renderRequestBody: true
+      encodeUrl: true
+      followRedirects: global
+      cookies:
+        send: true
+        store: true
+      rebuildPath: true
+environments:
+  name: Base Environment
+  meta:
+    id: env_a05b0f8b3214f4ec4352633efd7371c87a1cf3d3
+    created: 1642714324028
+    modified: 1642714324028
+    isPrivate: false
+spec:
+  meta:
+    id: spc_789ed96c03f84f11810feb7819da64f5
+    created: 1642714324019
+    modified: 1642714324019
